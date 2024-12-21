@@ -42,11 +42,6 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 - Os dados foram limpos e preparados para análise ou treinamento de modelos de machine learning.
 - Foi criado um DataFrame otimizado, sem valores ausentes, e com variáveis adequadas para modelagem.
 
-## Possíveis Melhorias
-- Experimentar outras técnicas de imputação para valores ausentes.
-- Explorar outras visualizações que possam revelar insights adicionais.
-- Implementar técnicas de seleção de variáveis para reduzir a dimensionalidade do dataset.
-
 ## Como Executar
 1. Certifique-se de ter o Python instalado na sua máquina.
 2. Instale as bibliotecas necessárias com o comando:
